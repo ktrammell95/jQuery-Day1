@@ -1,0 +1,26 @@
+body {
+  font-family: Georgia, arial, sans-serif; 
+
+}
+
+.time {
+  background-color: red;
+  width: 700px;
+  height: 500px;
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 500px;
+  font-size: 72px;
+
+}
+
+.hex {
+  width: 700px;
+  height: 500px;
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 500px;
+  font-size: 72px;
+}
